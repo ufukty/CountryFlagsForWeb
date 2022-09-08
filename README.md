@@ -2,6 +2,8 @@
 
 Bandwidth optimized country flags for HTML websites
 
+![Preview image for browser render of example.html](assets/preview.png)
+
 ## Key features
 
 -   254 flags
