@@ -1,0 +1,1549 @@
+.flagSprite {
+    display: block;
+    overflow: hidden;
+}
+
+.flagSprite {
+    background: url("flagSprite20h.png") no-repeat 0 0;
+    background-size: 53px 5588px;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min--moz-device-pixel-ratio: 2) {
+    .flagSprite {
+        background-image: url("flagSprite40h.png");
+        background-repeat: no-repeat;
+    }
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 3),
+only screen and (min--moz-device-pixel-ratio: 3) {
+    .flagSprite {
+        background-image: url("flagSprite60h.png");
+        background-repeat: no-repeat;
+    }
+}
+
+.flagSprite-AD {
+    width: 29px;
+    height: 20px;
+    background-position: -1px -1px;
+}
+
+.flagSprite-AE {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -23px;
+}
+
+.flagSprite-AF {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -45px;
+}
+
+.flagSprite-AG {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -67px;
+}
+
+.flagSprite-AI {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -89px;
+}
+
+.flagSprite-AL {
+    width: 28px;
+    height: 20px;
+    background-position: -1px -111px;
+}
+
+.flagSprite-AM {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -133px;
+}
+
+.flagSprite-AO {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -155px;
+}
+
+.flagSprite-AQ {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -177px;
+}
+
+.flagSprite-AR {
+    width: 32px;
+    height: 20px;
+    background-position: -1px -199px;
+}
+
+.flagSprite-AS {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -221px;
+}
+
+.flagSprite-AT {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -243px;
+}
+
+.flagSprite-AU {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -265px;
+}
+
+.flagSprite-AW {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -287px;
+}
+
+.flagSprite-AX {
+    width: 31px;
+    height: 20px;
+    background-position: -1px -309px;
+}
+
+.flagSprite-AZ {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -331px;
+}
+
+.flagSprite-BA {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -353px;
+}
+
+.flagSprite-BB {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -375px;
+}
+
+.flagSprite-BD {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -397px;
+}
+
+.flagSprite-BE {
+    width: 23px;
+    height: 20px;
+    background-position: -1px -419px;
+}
+
+.flagSprite-BF {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -441px;
+}
+
+.flagSprite-BG {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -463px;
+}
+
+.flagSprite-BH {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -485px;
+}
+
+.flagSprite-BI {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -507px;
+}
+
+.flagSprite-BJ {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -529px;
+}
+
+.flagSprite-BL {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -551px;
+}
+
+.flagSprite-BM {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -573px;
+}
+
+.flagSprite-BN {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -595px;
+}
+
+.flagSprite-BO {
+    width: 29px;
+    height: 20px;
+    background-position: -1px -617px;
+}
+
+.flagSprite-BQ {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -639px;
+}
+
+.flagSprite-BR {
+    width: 29px;
+    height: 20px;
+    background-position: -1px -661px;
+}
+
+.flagSprite-BS {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -683px;
+}
+
+.flagSprite-BT {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -705px;
+}
+
+.flagSprite-BV {
+    width: 28px;
+    height: 20px;
+    background-position: -1px -727px;
+}
+
+.flagSprite-BW {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -749px;
+}
+
+.flagSprite-BY {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -771px;
+}
+
+.flagSprite-BZ {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -793px;
+}
+
+.flagSprite-CA {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -815px;
+}
+
+.flagSprite-CC {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -837px;
+}
+
+.flagSprite-CD {
+    width: 27px;
+    height: 20px;
+    background-position: -1px -859px;
+}
+
+.flagSprite-CF {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -881px;
+}
+
+.flagSprite-CG {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -903px;
+}
+
+.flagSprite-CH {
+    width: 20px;
+    height: 20px;
+    background-position: -1px -925px;
+}
+
+.flagSprite-CI {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -947px;
+}
+
+.flagSprite-CK {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -969px;
+}
+
+.flagSprite-CL {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -991px;
+}
+
+.flagSprite-CM {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -1013px;
+}
+
+.flagSprite-CN {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -1035px;
+}
+
+.flagSprite-CO {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -1057px;
+}
+
+.flagSprite-CR {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -1079px;
+}
+
+.flagSprite-CU {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -1101px;
+}
+
+.flagSprite-CV {
+    width: 34px;
+    height: 20px;
+    background-position: -1px -1123px;
+}
+
+.flagSprite-CW {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -1145px;
+}
+
+.flagSprite-CX {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -1167px;
+}
+
+.flagSprite-CY {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -1189px;
+}
+
+.flagSprite-CZ {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -1211px;
+}
+
+.flagSprite-DE {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -1233px;
+}
+
+.flagSprite-DJ {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -1255px;
+}
+
+.flagSprite-DK {
+    width: 26px;
+    height: 20px;
+    background-position: -1px -1277px;
+}
+
+.flagSprite-DM {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -1299px;
+}
+
+.flagSprite-DO {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -1321px;
+}
+
+.flagSprite-DZ {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -1343px;
+}
+
+.flagSprite-EC {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -1365px;
+}
+
+.flagSprite-EE {
+    width: 31px;
+    height: 20px;
+    background-position: -1px -1387px;
+}
+
+.flagSprite-EG {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -1409px;
+}
+
+.flagSprite-EH {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -1431px;
+}
+
+.flagSprite-ER {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -1453px;
+}
+
+.flagSprite-ES {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -1475px;
+}
+
+.flagSprite-ET {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -1497px;
+}
+
+.flagSprite-FI {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -1519px;
+}
+
+.flagSprite-FJ {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -1541px;
+}
+
+.flagSprite-FK {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -1563px;
+}
+
+.flagSprite-FM {
+    width: 38px;
+    height: 20px;
+    background-position: -1px -1585px;
+}
+
+.flagSprite-FO {
+    width: 28px;
+    height: 20px;
+    background-position: -1px -1607px;
+}
+
+.flagSprite-FR {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -1629px;
+}
+
+.flagSprite-GA {
+    width: 27px;
+    height: 20px;
+    background-position: -1px -1651px;
+}
+
+.flagSprite-GB {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -1673px;
+}
+
+.flagSprite-GB-ENG {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -1695px;
+}
+
+.flagSprite-GB-NIR {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -1717px;
+}
+
+.flagSprite-GB-SCT {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -1739px;
+}
+
+.flagSprite-GB-WLS {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -1761px;
+}
+
+.flagSprite-GD {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -1783px;
+}
+
+.flagSprite-GE {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -1805px;
+}
+
+.flagSprite-GF {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -1827px;
+}
+
+.flagSprite-GG {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -1849px;
+}
+
+.flagSprite-GH {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -1871px;
+}
+
+.flagSprite-GI {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -1893px;
+}
+
+.flagSprite-GL {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -1915px;
+}
+
+.flagSprite-GM {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -1937px;
+}
+
+.flagSprite-GN {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -1959px;
+}
+
+.flagSprite-GP {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -1981px;
+}
+
+.flagSprite-GQ {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -2003px;
+}
+
+.flagSprite-GR {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -2025px;
+}
+
+.flagSprite-GS {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -2047px;
+}
+
+.flagSprite-GT {
+    width: 32px;
+    height: 20px;
+    background-position: -1px -2069px;
+}
+
+.flagSprite-GU {
+    width: 37px;
+    height: 20px;
+    background-position: -1px -2091px;
+}
+
+.flagSprite-GW {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -2113px;
+}
+
+.flagSprite-GY {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -2135px;
+}
+
+.flagSprite-HK {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -2157px;
+}
+
+.flagSprite-HM {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -2179px;
+}
+
+.flagSprite-HN {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -2201px;
+}
+
+.flagSprite-HR {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -2223px;
+}
+
+.flagSprite-HT {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -2245px;
+}
+
+.flagSprite-HU {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -2267px;
+}
+
+.flagSprite-ID {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -2289px;
+}
+
+.flagSprite-IE {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -2311px;
+}
+
+.flagSprite-IL {
+    width: 28px;
+    height: 20px;
+    background-position: -1px -2333px;
+}
+
+.flagSprite-IM {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -2355px;
+}
+
+.flagSprite-IN {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -2377px;
+}
+
+.flagSprite-IO {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -2399px;
+}
+
+.flagSprite-IQ {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -2421px;
+}
+
+.flagSprite-IR {
+    width: 35px;
+    height: 20px;
+    background-position: -1px -2443px;
+}
+
+.flagSprite-IS {
+    width: 28px;
+    height: 20px;
+    background-position: -1px -2465px;
+}
+
+.flagSprite-IT {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -2487px;
+}
+
+.flagSprite-JE {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -2509px;
+}
+
+.flagSprite-JM {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -2531px;
+}
+
+.flagSprite-JO {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -2553px;
+}
+
+.flagSprite-JP {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -2575px;
+}
+
+.flagSprite-KE {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -2597px;
+}
+
+.flagSprite-KG {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -2619px;
+}
+
+.flagSprite-KH {
+    width: 31px;
+    height: 20px;
+    background-position: -1px -2641px;
+}
+
+.flagSprite-KI {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -2663px;
+}
+
+.flagSprite-KM {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -2685px;
+}
+
+.flagSprite-KN {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -2707px;
+}
+
+.flagSprite-KP {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -2729px;
+}
+
+.flagSprite-KR {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -2751px;
+}
+
+.flagSprite-KW {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -2773px;
+}
+
+.flagSprite-KY {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -2795px;
+}
+
+.flagSprite-KZ {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -2817px;
+}
+
+.flagSprite-LA {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -2839px;
+}
+
+.flagSprite-LB {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -2861px;
+}
+
+.flagSprite-LC {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -2883px;
+}
+
+.flagSprite-LI {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -2905px;
+}
+
+.flagSprite-LK {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -2927px;
+}
+
+.flagSprite-LR {
+    width: 38px;
+    height: 20px;
+    background-position: -1px -2949px;
+}
+
+.flagSprite-LS {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -2971px;
+}
+
+.flagSprite-LT {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -2993px;
+}
+
+.flagSprite-LU {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -3015px;
+}
+
+.flagSprite-LV {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -3037px;
+}
+
+.flagSprite-LY {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -3059px;
+}
+
+.flagSprite-MA {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -3081px;
+}
+
+.flagSprite-MC {
+    width: 25px;
+    height: 20px;
+    background-position: -1px -3103px;
+}
+
+.flagSprite-MD {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -3125px;
+}
+
+.flagSprite-ME {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -3147px;
+}
+
+.flagSprite-MF {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -3169px;
+}
+
+.flagSprite-MG {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -3191px;
+}
+
+.flagSprite-MH {
+    width: 38px;
+    height: 20px;
+    background-position: -1px -3213px;
+}
+
+.flagSprite-MK {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -3235px;
+}
+
+.flagSprite-ML {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -3257px;
+}
+
+.flagSprite-MM {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -3279px;
+}
+
+.flagSprite-MN {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -3301px;
+}
+
+.flagSprite-MO {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -3323px;
+}
+
+.flagSprite-MP {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -3345px;
+}
+
+.flagSprite-MQ {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -3367px;
+}
+
+.flagSprite-MR {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -3389px;
+}
+
+.flagSprite-MS {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -3411px;
+}
+
+.flagSprite-MT {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -3433px;
+}
+
+.flagSprite-MU {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -3455px;
+}
+
+.flagSprite-MV {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -3477px;
+}
+
+.flagSprite-MW {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -3499px;
+}
+
+.flagSprite-MX {
+    width: 35px;
+    height: 20px;
+    background-position: -1px -3521px;
+}
+
+.flagSprite-MY {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -3543px;
+}
+
+.flagSprite-MZ {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -3565px;
+}
+
+.flagSprite-NA {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -3587px;
+}
+
+.flagSprite-NC {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -3609px;
+}
+
+.flagSprite-NE {
+    width: 23px;
+    height: 20px;
+    background-position: -1px -3631px;
+}
+
+.flagSprite-NF {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -3653px;
+}
+
+.flagSprite-NG {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -3675px;
+}
+
+.flagSprite-NI {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -3697px;
+}
+
+.flagSprite-NL {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -3719px;
+}
+
+.flagSprite-NO {
+    width: 28px;
+    height: 20px;
+    background-position: -1px -3741px;
+}
+
+.flagSprite-NP {
+    width: 16px;
+    height: 20px;
+    background-position: -1px -3763px;
+}
+
+.flagSprite-NR {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -3785px;
+}
+
+.flagSprite-NU {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -3807px;
+}
+
+.flagSprite-NZ {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -3829px;
+}
+
+.flagSprite-OM {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -3851px;
+}
+
+.flagSprite-PA {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -3873px;
+}
+
+.flagSprite-PE {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -3895px;
+}
+
+.flagSprite-PF {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -3917px;
+}
+
+.flagSprite-PG {
+    width: 27px;
+    height: 20px;
+    background-position: -1px -3939px;
+}
+
+.flagSprite-PH {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -3961px;
+}
+
+.flagSprite-PK {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -3983px;
+}
+
+.flagSprite-PL {
+    width: 32px;
+    height: 20px;
+    background-position: -1px -4005px;
+}
+
+.flagSprite-PM {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4027px;
+}
+
+.flagSprite-PN {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -4049px;
+}
+
+.flagSprite-PR {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4071px;
+}
+
+.flagSprite-PS {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -4093px;
+}
+
+.flagSprite-PT {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4115px;
+}
+
+.flagSprite-PW {
+    width: 32px;
+    height: 20px;
+    background-position: -1px -4137px;
+}
+
+.flagSprite-PY {
+    width: 36px;
+    height: 20px;
+    background-position: -1px -4159px;
+}
+
+.flagSprite-QA {
+    width: 51px;
+    height: 20px;
+    background-position: -1px -4181px;
+}
+
+.flagSprite-RE {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4203px;
+}
+
+.flagSprite-RO {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4225px;
+}
+
+.flagSprite-RS {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4247px;
+}
+
+.flagSprite-RU {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4269px;
+}
+
+.flagSprite-RW {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4291px;
+}
+
+.flagSprite-SA {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4313px;
+}
+
+.flagSprite-SB {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -4335px;
+}
+
+.flagSprite-SC {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -4357px;
+}
+
+.flagSprite-SD {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -4379px;
+}
+
+.flagSprite-SE {
+    width: 32px;
+    height: 20px;
+    background-position: -1px -4401px;
+}
+
+.flagSprite-SG {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4423px;
+}
+
+.flagSprite-SH {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -4445px;
+}
+
+.flagSprite-SI {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -4467px;
+}
+
+.flagSprite-SJ {
+    width: 28px;
+    height: 20px;
+    background-position: -1px -4489px;
+}
+
+.flagSprite-SK {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4511px;
+}
+
+.flagSprite-SL {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4533px;
+}
+
+.flagSprite-SM {
+    width: 27px;
+    height: 20px;
+    background-position: -1px -4555px;
+}
+
+.flagSprite-SN {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4577px;
+}
+
+.flagSprite-SO {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4599px;
+}
+
+.flagSprite-SR {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4621px;
+}
+
+.flagSprite-SS {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -4643px;
+}
+
+.flagSprite-ST {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -4665px;
+}
+
+.flagSprite-SV {
+    width: 35px;
+    height: 20px;
+    background-position: -1px -4687px;
+}
+
+.flagSprite-SX {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4709px;
+}
+
+.flagSprite-SY {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4731px;
+}
+
+.flagSprite-SZ {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4753px;
+}
+
+.flagSprite-TC {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -4775px;
+}
+
+.flagSprite-TD {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4797px;
+}
+
+.flagSprite-TF {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4819px;
+}
+
+.flagSprite-TG {
+    width: 32px;
+    height: 20px;
+    background-position: -1px -4841px;
+}
+
+.flagSprite-TH {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4863px;
+}
+
+.flagSprite-TJ {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -4885px;
+}
+
+.flagSprite-TK {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -4907px;
+}
+
+.flagSprite-TL {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -4929px;
+}
+
+.flagSprite-TM {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4951px;
+}
+
+.flagSprite-TN {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -4973px;
+}
+
+.flagSprite-TO {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -4995px;
+}
+
+.flagSprite-TR {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -5017px;
+}
+
+.flagSprite-TT {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -5039px;
+}
+
+.flagSprite-TV {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -5061px;
+}
+
+.flagSprite-TW {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -5083px;
+}
+
+.flagSprite-TZ {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -5105px;
+}
+
+.flagSprite-UA {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -5127px;
+}
+
+.flagSprite-UG {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -5149px;
+}
+
+.flagSprite-UM {
+    width: 38px;
+    height: 20px;
+    background-position: -1px -5171px;
+}
+
+.flagSprite-US {
+    width: 38px;
+    height: 20px;
+    background-position: -1px -5193px;
+}
+
+.flagSprite-UY {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -5215px;
+}
+
+.flagSprite-UZ {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -5237px;
+}
+
+.flagSprite-VA {
+    width: 20px;
+    height: 20px;
+    background-position: -1px -5259px;
+}
+
+.flagSprite-VC {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -5281px;
+}
+
+.flagSprite-VE {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -5303px;
+}
+
+.flagSprite-VG {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -5325px;
+}
+
+.flagSprite-VI {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -5347px;
+}
+
+.flagSprite-VN {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -5369px;
+}
+
+.flagSprite-VU {
+    width: 33px;
+    height: 20px;
+    background-position: -1px -5391px;
+}
+
+.flagSprite-WF {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -5413px;
+}
+
+.flagSprite-WS {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -5435px;
+}
+
+.flagSprite-XK {
+    width: 28px;
+    height: 20px;
+    background-position: -1px -5457px;
+}
+
+.flagSprite-YE {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -5479px;
+}
+
+.flagSprite-YT {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -5501px;
+}
+
+.flagSprite-ZA {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -5523px;
+}
+
+.flagSprite-ZM {
+    width: 30px;
+    height: 20px;
+    background-position: -1px -5545px;
+}
+
+.flagSprite-ZW {
+    width: 40px;
+    height: 20px;
+    background-position: -1px -5567px;
+}
