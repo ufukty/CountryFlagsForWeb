@@ -1,4 +1,4 @@
-# flagSprite
+# CountryFlagsForWeb
 
 Bandwidth optimized country flags for HTML websites
 
